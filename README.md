@@ -61,3 +61,18 @@ LCD 1602 Display
 Buck Converter
 
 Charge Controller
+
+WORKING MODEL
+
+
+
+
+
+![1000145034](https://github.com/user-attachments/assets/d6810d48-8c6a-446c-a85a-2cedaa0e1939)
+
+
+
+
+
+
+
